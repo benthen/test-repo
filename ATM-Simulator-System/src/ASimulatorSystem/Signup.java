@@ -14,6 +14,10 @@ public class Signup extends JFrame implements ActionListener{
     JRadioButton r1,r2,r3,r4,r5;
     JButton b;
     JDateChooser dateChooser;
+    String name = "ben";
+    int age = 10;
+    String address = "kl";
+    int pin = 12345;
     
     
     Random ran = new Random();
